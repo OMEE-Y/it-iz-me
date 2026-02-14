@@ -1,0 +1,54 @@
+{
+  "img": "https://raw.githubusercontent.com/OMEE-Y/it-iz-me/main/avatar.png",
+  "img_alt": "Om Yewale profile photo",
+
+  "heading_bold": "hi there, i'm Om",
+  "heading_light": ": a full stack developer.",
+
+  "desc_1": "i build things with",
+
+  "tech_stack": [
+    { "iconName": "SI Typescript", "visibleName": "TypeScript" },
+    { "iconName": "SI React", "visibleName": "React" },
+    { "iconName": "SI Nextdotjs", "visibleName": "Next.js" },
+    { "iconName": "SI Java", "visibleName": "Java" },
+    { "iconName": "SI Python", "visibleName": "Python" }
+  ],
+
+  "desc_2": "i'm an engineering student who loves turning ideas into real, usable products. i enjoy working across the stack, from clean frontends to solid backend logic, and i care a lot about writing code that actually makes sense to other humans.",
+
+  "desc_3": "if you need someone who can design, build, and ship a full web app without babysitting, i'm your guy. check out my work or reach out and let's build something cool.",
+
+  "cta_buttons": [
+    {
+      "type": "primary",
+      "label": "Know More",
+      "href": "https://github.com/OMEE-Y",
+      "icon": "SI FileText"
+    },
+    {
+      "type": "secondary",
+      "label": "Get in touch",
+      "href": "mailto:omeeyewale@gmail.com",
+      "icon": "BI Send"
+    }
+  ],
+
+  "social_links": [
+    {
+      "type": "SI Github",
+      "label": "GitHub",
+      "href": "https://github.com/OMEE-Y"
+    },
+    {
+      "type": "SI Linkedin",
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/om-yewale-744905328"
+    },
+    {
+      "type": "SI X",
+      "label": "X",
+      "href": "https://x.com/omee_y"
+    }
+  ]
+}
