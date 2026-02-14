@@ -12,7 +12,13 @@
     { "iconName": "SI React", "visibleName": "React" },
     { "iconName": "SI Nextdotjs", "visibleName": "Next.js" },
     { "iconName": "SI Java", "visibleName": "Java" },
-    { "iconName": "SI Python", "visibleName": "Python" }
+    { "iconName": "SI Python", "visibleName": "Python" },
+     { "iconName": "SI Nodedotjs", "visibleName": "Node.js" },
+  { "iconName": "SI Express", "visibleName": "Express.js" },
+  { "iconName": "SI Mongodb", "visibleName": "MongoDB" },
+  { "iconName": "SI Mongoose", "visibleName": "Mongoose" },
+     { "iconName": "SI Spring", "visibleName": "Spring Boot" }
+
   ],
 
   "desc_2": "i'm an engineering student who loves turning ideas into real, usable products. i enjoy working across the stack, from clean frontends to solid backend logic, and i care a lot about writing code that actually makes sense to other humans.",
@@ -53,4 +59,5 @@
   ]
 
 }
+
 
